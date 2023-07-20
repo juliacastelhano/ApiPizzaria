@@ -1,6 +1,6 @@
 # ApiPizzaria
 
-Api de uma pizzaria feita em Java com banco de ddados Hsqldb!
+Api de uma pizzaria feita em Java com o banco de dados Hsqldb!
 
 Funcionalidades:
 Cadastro de atendentes;
